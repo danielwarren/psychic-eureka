@@ -1,3 +1,1 @@
-# psychic-eureka
-
-work out how to use python gui library
+writing sudoku in java
